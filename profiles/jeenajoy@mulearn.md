@@ -1,7 +1,6 @@
 # Jeena Joy
 
-### Myself Jeena Joy,Btech 2023 Graduate From College Of Engineering aranmula.Iam Passionate about webdevelopment and proficient in java,python and c.
-
+### My name is Jeena Joy, and I am a 2023 BTech graduate from the College of Engineering Aranmula.I have a deep passion for web development, with a particular interest in frontend development. I am proficient in Java, Python, and C.I am excited to bring my enthusiasm for technology and my diverse skill set to new opportunities, where I can continue to learn and grow while making meaningful contributions.
 
 ## Portfolio Highlights
 
